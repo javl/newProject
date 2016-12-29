@@ -19,4 +19,3 @@
 * [Border Bumping](http://borderbumping.net/) moves country borders on a map based on what celltower you are connected to in the border area.
 * [Border Check](http://roelof.info/projects/(2013)Border_Check/) is a browser plugin that maps internet infrastructure, showing how your data gets routed through the world.
 * Just for fun: border-wise [Baarle-Nassau / Baarle-Hertog](https://www.google.nl/maps/@51.4362036,4.9338757,14z) is an interesting area, with parts of the Netherlands within parts of Belgium, within the Netherlands.
->>>>>>> e9ceaee30c8ebe62c659285001b7ef13105cbbaa
