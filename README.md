@@ -4,4 +4,5 @@
 1. Come up with a project
 
 ####Ideas:
-1. We show the sea with only pictures from social media using geolocation. Each photo is placed side by side and the sea is lineup with all the photos. It can be an installation or a website showing the coastline of Belgium and the Nederlands. 
+1. We show the sea with only pictures from social media using geolocation. Each photo is placed side by side and the sea is lineup with all the photos. It can be an installation or a website showing the coastline of Belgium and the Nederlands.
+2. Data that's moves from server to server in different countries following bird routes.  
