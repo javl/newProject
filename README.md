@@ -10,6 +10,7 @@
   * What are good places to get geolocated images from these days?
 
 2. Data that's moves from server to server in different countries following bird routes. We can use Amazon S3 buckets to transport the data to different countries.  
+  * [Amazon server locations](https://aws.amazon.com/about-aws/global-infrastructure/)
 
 
 
