@@ -11,6 +11,7 @@
 
 2. Data that's moves from server to server in different countries following bird routes. We can use Amazon S3 buckets to transport the data to different countries.  
   * [Amazon server locations](https://aws.amazon.com/about-aws/global-infrastructure/)
+  * [Cloud Flare server locations](https://www.cloudflare.com/network/)
 
 
 
