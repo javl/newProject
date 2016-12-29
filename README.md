@@ -12,6 +12,9 @@
 2. Data that's moves from server to server in different countries following bird routes. We can use Amazon S3 buckets to transport the data to different countries.  
   * [Amazon server locations](https://aws.amazon.com/about-aws/global-infrastructure/)
   * [Cloud Flare server locations](https://www.cloudflare.com/network/)
+  
+3. Alternative ways of connecting and sending data. With standalone systems (not 'the' internet) or quirky methods.
+   * Using poses / choreography / body dimensions (in VR?) to use as encryption keys. ([video](https://youtu.be/cnFBM58UOYM?t=5m5s))
 
 
 
