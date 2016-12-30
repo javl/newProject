@@ -17,6 +17,7 @@
    * Using poses / choreography / body dimensions (in VR?) to use as encryption keys. ([video](https://youtu.be/cnFBM58UOYM?t=5m5s))
    
 4. Lately I've been coming across articles about "Post VR sadness" ([link](https://www.theatlantic.com/technology/archive/2016/12/post-vr-sadness/511232/?single_page=true)), when you leave a VR environment and are disappointed by the real world (remember how this also happened when people left the cinema after seeing Avatar?). There must be some project in this (+ I'd like to do something VR).
+  * Fighting post-vr depression by making a VR experience just as boring as real life?
   * Somewhat related article on AR: [link](http://www.wired.co.uk/article/augmented-reality-environments)
 
 
