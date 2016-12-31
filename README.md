@@ -20,6 +20,8 @@
   * Fighting post-vr depression by making a VR experience just as boring as real life?
   * Somewhat related article on AR: [link](http://www.wired.co.uk/article/augmented-reality-environments)
 
+5. Script that defriends terrorists (sad sad project) by using machine learning trained on terrorist pictures.
+  * [Check this startup!](http://www.faception.com/) It's real!
 
 
 ####Interesting links:
