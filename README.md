@@ -23,9 +23,14 @@
 5. Script that defriends terrorists (sad sad project) by using machine learning trained on terrorist pictures.
   * [Check this startup!](http://www.faception.com/) It's real!
 
-6. Getting an x-amount of webcams with known, unpatchable backdoors so anyone can watch them and putting them in specific places with artworks in front of them.
-  * I'd like to get 10+ of those cameras that you can move around and place them so that they can see each other. Knowing their position, you can add a clickable area on top of the other cameras in the image, allowing you to jump to the other views. You could also add other object in the space that can be interacted with (turn power on/off).
-
+6. Mega Panopticon
+  * Getting 10+ ptz ip cameras (possibly ones with known backdoors?) and placing them so that they can see each other. By checking their orientation you should be able to make it so that clicking on a camera in the image makes you jump to that camera's view.
+  * Placing the cameras around a room lets you view whatever is happening from every possible angle and with different zoom levels
+  * Combine with as many ways to gather data as possible
+  	* Run different types of computer vision on the images (posture / face detection, etc.)
+    * Sniffing wifi / bluetooth in the space
+    * Let people agree to the fact that they will be filmed before entering the space by pressing their finger on a fingerprint reader?
+  * Using the camera's orientation you could also interact with other objects in the space, like clicking on some device to turn it on or off
 
 ####Interesting links:
 * [Border Bumping](http://borderbumping.net/) moves country borders on a map based on what celltower you are connected to in the border area.
