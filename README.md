@@ -24,7 +24,7 @@
   * [Check this startup!](http://www.faception.com/) It's real!
 
 6. Getting an x-amount of webcams with known, unpatchable backdoors so anyone can watch them and putting them in specific places with artworks in front of them.
-  * I'd like to get 10+ of those cameras that can be moved around and place them so that they can see each other. Knowing their position, you can add a clickable area on top of the other cameras in the image, allowing you to jump to the other views
+  * I'd like to get 10+ of those cameras that you can move around and place them so that they can see each other. Knowing their position, you can add a clickable area on top of the other cameras in the image, allowing you to jump to the other views.
 
 
 ####Interesting links:
