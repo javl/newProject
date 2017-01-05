@@ -24,13 +24,14 @@
   * [Check this startup!](http://www.faception.com/) It's real!
 
 6. Mega Panopticon
-  * Getting 10+ ptz ip cameras (possibly ones with known backdoors?) and placing them so that they can see each other. By checking their orientation you should be able to make it so that clicking on a camera in the image makes you jump to that camera's view.
+  * Getting 10+ ptz ip cameras (possibly ones with known backdoors?) and placing them so that they can see each other. By checking their orientation you should be able to make it so that clicking on a camera in one video feed makes you jump to that camera's feed.
   * Placing the cameras around a room lets you view whatever is happening from every possible angle and with different zoom levels
   * Combine with as many ways to gather data as possible
   	* Run different types of computer vision on the images (posture / face detection, etc.)
     * Sniffing wifi / bluetooth in the space
     * Let people agree to the fact that they will be filmed before entering the space by pressing their finger on a fingerprint reader?
   * Using the camera's orientation you could also interact with other objects in the space, like clicking on some device to turn it on or off
+  * You'd be able to to [this](https://www.youtube.com/watch?v=qHepKd38pr00) (kind of)
 
 ####Interesting links:
 * [Border Bumping](http://borderbumping.net/) moves country borders on a map based on what celltower you are connected to in the border area.
