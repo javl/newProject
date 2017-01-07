@@ -33,6 +33,8 @@
   * Using the camera's orientation you could also interact with other objects in the space, like clicking on some device to turn it on or off
   * You'd be able to to [this](https://www.youtube.com/watch?v=qHepKd38pr00) (kind of)
 
+7. What can we do with this new repository? [wifi jammer](https://github.com/DanMcInerney/wifijammer)
+
 ####Interesting links:
 * [Border Bumping](http://borderbumping.net/) moves country borders on a map based on what celltower you are connected to in the border area.
 * [Border Check](http://roelof.info/projects/(2013)Border_Check/) is a browser plugin that maps internet infrastructure, showing how your data gets routed through the world.
