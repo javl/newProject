@@ -31,7 +31,7 @@
     * Sniffing wifi / bluetooth in the space
     * Let people agree to the fact that they will be filmed before entering the space by pressing their finger on a fingerprint reader?
   * Using the camera's orientation you could also interact with other objects in the space, like clicking on some device to turn it on or off
-  * You'd be able to to [this](https://www.youtube.com/watch?v=qHepKd38pr00) (kind of)
+  * You'd be able to to [this](https://www.youtube.com/watch?v=qHepKd38pr00) (kind of) or [this](https://www.youtube.com/watch?v=qwNwl6Hm7zQ)
 
 7. What can we do with this new repository? [wifi jammer](https://github.com/DanMcInerney/wifijammer)
   * You can use it [for rickrolling](https://www.wired.com/2014/07/rickroll-innocent-televisions-with-this-google-chromecast-hack/)
