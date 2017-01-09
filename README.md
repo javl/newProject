@@ -34,6 +34,8 @@
   * You'd be able to to [this](https://www.youtube.com/watch?v=qHepKd38pr00) (kind of)
 
 7. What can we do with this new repository? [wifi jammer](https://github.com/DanMcInerney/wifijammer)
+  * You can use it [for rickrolling](https://www.wired.com/2014/07/rickroll-innocent-televisions-with-this-google-chromecast-hack/)
+
 8. Your Tweets impressions VS real conversations
 
 
