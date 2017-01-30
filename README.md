@@ -33,12 +33,15 @@
   * Using the camera's orientation you could also interact with other objects in the space, like clicking on some device to turn it on or off
   * You'd be able to to [this](https://www.youtube.com/watch?v=qHepKd38pr00) (kind of) or [this](https://www.youtube.com/watch?v=qwNwl6Hm7zQ)
 
-7. Variant on #6
-  Creating movable camera units. For instance
-    * A camera attached to a 2 meter high pole. The camera is able to move up and down (position, not pitch. Though adding pitch would be nice, but makes it extra complex), and the whole pole can rotate around its axis.
-    * A camera connected to the ceiling. The camera can be lowered and the whole contraption can rotate around its axis
+7. Creating sort of a "ghost world" effect by connecting two physical spaces.
+  A series of movable camera's is needed. For instance:
+  * A camera attached to a 2 meter high pole. The camera is able to move up and down (position, not pitch. Though adding pitch would be nice, but makes it extra complex), and the whole pole can rotate around its axis.
+  * A camera connected to the ceiling. The camera can be lowered and the whole contraption can rotate around its axis
+  
   The camera units are placed in a room, hallway, etc. A Vive headset in another room is tracked and its position is mapped to a position in the room of camera's. The feed of the camera that is closest to this mapped point is shown inside the headset.
+  
   When moving around in the space, different camera feeds are shown as if you are moving in the other room. Standing up or squatting will move the camera's up and down, and roting your head / body makes the camera's rotate as well.
+  
   The effect could be especially nice when the area covered by camera's is a lot larger than the space you move in. A small step inside your real world would be a large step inside your "ghost" world.
 
 8. What can we do with this new repository? [wifi jammer](https://github.com/DanMcInerney/wifijammer)
