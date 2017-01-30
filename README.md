@@ -45,6 +45,7 @@
   * A camera attached to a 2 meter high pole. The camera is able to move up and down (position, not pitch. Though adding pitch would be nice, but makes it extra complex), and the whole pole can rotate around its axis.
   * A camera connected to the ceiling. The camera can be lowered and the whole contraption can rotate around its axis
     
+  From both ends this should be an interesting view; both from the one wearing the headset, but also from the other side where you see the movement of 'something' moving quickly around the space.
 
 8. What can we do with this new repository? [wifi jammer](https://github.com/DanMcInerney/wifijammer)
   * You can use it [for rickrolling](https://www.wired.com/2014/07/rickroll-innocent-televisions-with-this-google-chromecast-hack/)
