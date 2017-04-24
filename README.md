@@ -52,6 +52,8 @@
 
 9. Your Tweets impressions VS real conversations
 
+10. Build something that uses every sensor you can get for Arduino / Raspberry pi (temperature, moisture, light, sound, angle, magnetic fields, airflow, touch, gas, etc.)
+
 
 #### Interesting links:
 * [Border Bumping](http://borderbumping.net/) moves country borders on a map based on what celltower you are connected to in the border area.
